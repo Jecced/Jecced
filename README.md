@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <a href="https://www.againfly.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <!--
 **Jecced/Jecced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on China
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on [Money]
+- 🤔 I’m looking for help with [Money]
+- 💬 Ask me about [Nothing]
+- 📫 How to reach me: @Jecced
+- 😄 Pronouns: Money
+- ⚡ Fun fact: ❤️ Money
