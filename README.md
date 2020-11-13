@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on China
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on [Money]
-- 🤔 I’m looking for help with [Money]
-- 💬 Ask me about [Nothing]
 - 📫 How to reach me: @Jecced
-- 😄 Pronouns: Money
-- ⚡ Fun fact: ❤️ Money
